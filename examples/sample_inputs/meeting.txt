@@ -1,0 +1,7 @@
+Priya: Morning everyone. Quick standup. The deploy is still blocked on the load test results from last night.
+Arun: I dug into the numbers this morning. DECISION: We will rerun the load tests tonight and deploy Thursday morning.
+Meera: Sounds good. ACTION: Meera to publish the release notes by end of day.
+Priya: ACTION: Priya to confirm the rollback plan with the infra team before Thursday.
+Arun: One more thing, the dashboard alerts were noisy over the weekend and paged the on-call twice for nothing.
+Meera: DECISION: We will tune the alert thresholds before the next deploy so the on-call stops getting woken up.
+Priya: Anything else? No? Great, thanks all.
